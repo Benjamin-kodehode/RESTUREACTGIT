@@ -1,0 +1,30 @@
+.meny {
+  border: 2px solid #8a0000;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 10px;
+  background-color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.meny h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.meny p,
+.meny h4 {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.meny p,
+.meny h3,
+.meny h4 {
+  line-height: 1.4;
+}
